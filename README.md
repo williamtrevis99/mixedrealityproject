@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=jCChPK7l5Xo - Bike maintenance
 
 ## Development roadmap 
 
-![development roadmap] (/images/roadmap.png) 
+![development roadmap] (/images/roadmap.jpg) 
 
 ---
 ---
