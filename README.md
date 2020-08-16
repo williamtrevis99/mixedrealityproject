@@ -11,13 +11,13 @@ A mixed reality project using the Microsoft Hololens
 
 ### Inspiration 
 
-https://www.youtube.com/watch?v=3QyA7HhIYkg FORD
-https://www.youtube.com/watch?v=cvLdbpICVGk VOLVO
-https://www.youtube.com/watch?v=TEaS0yMmP74 Integrated car systems
-https://www.youtube.com/watch?v=pww0Px3rcf8 FORD car design 
-https://www.youtube.com/watch?v=egdX9MZ_YTE Technical specification 
-https://www.youtube.com/watch?v=9VqOipWugqI Car customiser 
-https://www.youtube.com/watch?v=jCChPK7l5Xo Bike maintenance 
+* https://www.youtube.com/watch?v=3QyA7HhIYkg FORD
+* https://www.youtube.com/watch?v=cvLdbpICVGk VOLVO
+* https://www.youtube.com/watch?v=TEaS0yMmP74 Integrated car systems
+* https://www.youtube.com/watch?v=pww0Px3rcf8 FORD car design 
+* https://www.youtube.com/watch?v=egdX9MZ_YTE Technical specification 
+* https://www.youtube.com/watch?v=9VqOipWugqI Car customiser 
+* https://www.youtube.com/watch?v=jCChPK7l5Xo Bike maintenance 
 
 ## Key aspects of the project. 
 
